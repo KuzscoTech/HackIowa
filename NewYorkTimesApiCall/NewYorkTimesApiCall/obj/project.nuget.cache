@@ -1,14 +1,8 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "iJQlXs1kCbRZDwbvot6TxdxzGrb+HACftT7MuOXjHzb17raJkZrZVeDR8xLcrDEpigBywtQDqwRMJWWuVxVsNA==",
-  "success": true,
-  "projectFilePath": "C:\\C++ Projects\\HackIowa\\NewYorkTimesApiCall\\NewYorkTimesApiCall\\NewYorkTimesApiCall.csproj",
-=======
   "dgSpecHash": "JmxqWzTV5I4XWkFDYYT6q9yMyShcaXMmzSYJmIM82wEx/IiZlL77GPBdfKZrY7tfOuEd5ROVsbKFeV6XFI+w5w==",
   "success": true,
   "projectFilePath": "C:\\Users\\gabri\\OneDrive\\Desktop\\projects\\Hackathon\\HackIowa\\NewYorkTimesApiCall\\NewYorkTimesApiCall\\NewYorkTimesApiCall.csproj",
->>>>>>> 698adbe3c37c5aa5ccb25b868ec4010140bed3f3
   "expectedPackageFiles": [
     "C:\\Users\\gabri\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.7\\microsoft.aspnet.webapi.client.5.2.7.nupkg.sha512",
     "C:\\Users\\gabri\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",
@@ -97,5 +91,12 @@
     "C:\\Users\\gabri\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\gabri\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\gabri\\OneDrive\\Desktop\\projects\\Hackathon\\HackIowa\\NewYorkTimesApiCall\\NewYorkTimesApiCall\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
