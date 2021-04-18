@@ -31,20 +31,16 @@ namespace Crop_Models
             ReturnPerAcre = 823;
         }
 
-        public void EconInfo()
+        public string EconInfo()
         {
-            Console.WriteLine("Cost per acre: {0:C2}", CostPerAcre);
-            Console.WriteLine("Return per acre: {0:C2}", ReturnPerAcre);
-            Console.WriteLine("Yield per acre: {0} lbs", YieldperAcre);
+
+            return "Cost per acre: " + CostPerAcre + "\n" + "Return per acre: " + ReturnPerAcre + "\n" + "Yield per acre: " + YieldperAcre + "\n";
         }
 
-        public void PlantingInfo()
+        public string PlantingInfo()
         {
-            Console.WriteLine("Grow time of crop: {0}", GrowTime);
-            Console.WriteLine("Soil conditions: {0}", SoilConditions);
-            Console.WriteLine("Sunlight needs of crop: {0}", SunlightExposureTime);
-            Console.WriteLine("Water frequency of crop: {0}", WaterFrequency);
-            Console.WriteLine("Tools required for crop: {0}", Tools);
+            return "Grow time of crop: " + GrowTime + "\n" + "Soil conditions: " + SoilConditions + "\n" + "Sunlight needs of crop: " + 
+                SunlightExposureTime + "\n" + "Water frequency of crop: " + WaterFrequency + "\n" + "Tools required for crop: " + Tools + "\n";
         }
 
         public double CostCalculator(int _acres)

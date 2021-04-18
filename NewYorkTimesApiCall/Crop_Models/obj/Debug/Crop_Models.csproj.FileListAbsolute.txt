@@ -11,3 +11,4 @@ C:\Users\gabri\OneDrive\Desktop\projects\Hackathon\HackIowa\NewYorkTimesApiCall\
 C:\Users\gabri\OneDrive\Desktop\projects\Hackathon\HackIowa\NewYorkTimesApiCall\Crop_Models\obj\Debug\Crop_Models.csproj.CoreCompileInputs.cache
 C:\Users\gabri\OneDrive\Desktop\projects\Hackathon\HackIowa\NewYorkTimesApiCall\Crop_Models\obj\Debug\Crop_Models.exe
 C:\Users\gabri\OneDrive\Desktop\projects\Hackathon\HackIowa\NewYorkTimesApiCall\Crop_Models\obj\Debug\Crop_Models.pdb
+C:\Users\gabri\OneDrive\Desktop\projects\Hackathon\HackIowa\NewYorkTimesApiCall\Crop_Models\obj\Debug\Crop_Models.csprojAssemblyReference.cache

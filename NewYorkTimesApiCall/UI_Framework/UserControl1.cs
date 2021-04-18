@@ -8,16 +8,11 @@ using System.Windows.Forms;
 
 namespace UI_Framework
 {
-    public partial class userControlNews : UserControl
+    public partial class UserControl1 : UserControl
     {
-        public userControlNews()
+        public UserControl1()
         {
             InitializeComponent();
-        }
-
-        private void userControlNews_Load(object sender, EventArgs e)
-        {
-
         }
     }
 }

@@ -42,13 +42,14 @@ namespace UI_Framework
             this.lblTitle.TabIndex = 1;
             this.lblTitle.Text = "News";
             // 
-            // News
+            // userControlNews
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.Controls.Add(this.lblTitle);
-            this.Name = "News";
-            this.Size = new System.Drawing.Size(464, 324);
+            this.Name = "userControlNews";
+            this.Size = new System.Drawing.Size(526, 357);
+            this.Load += new System.EventHandler(this.userControlNews_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

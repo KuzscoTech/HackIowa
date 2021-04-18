@@ -21,3 +21,4 @@ C:\Users\gabri\OneDrive\Desktop\projects\Hackathon\HackIowa\NewYorkTimesApiCall\
 C:\Users\gabri\OneDrive\Desktop\projects\Hackathon\HackIowa\NewYorkTimesApiCall\UI_Framework\obj\Debug\netcoreapp3.1\UI_Framework.dll
 C:\Users\gabri\OneDrive\Desktop\projects\Hackathon\HackIowa\NewYorkTimesApiCall\UI_Framework\obj\Debug\netcoreapp3.1\UI_Framework.pdb
 C:\Users\gabri\OneDrive\Desktop\projects\Hackathon\HackIowa\NewYorkTimesApiCall\UI_Framework\obj\Debug\netcoreapp3.1\UI_Framework.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Desktop\projects\Hackathon\HackIowa\NewYorkTimesApiCall\UI_Framework\obj\Debug\netcoreapp3.1\UI_Framework.UserControl1.resources
