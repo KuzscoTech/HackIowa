@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{275B0284-41CF-49FA-B916-4EAA825C5D9C}</ProjectGuid>
+    <ProjectGuid>{219A3E0E-D4DC-4595-A0AB-A64AAEEAD0FD}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Crop_Models</RootNamespace>
-    <AssemblyName>Crop_Models</AssemblyName>
+    <RootNamespace>NewYorkTimesCall</RootNamespace>
+    <AssemblyName>NewYorkTimesCall</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,12 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Corn.cs" />
-    <Compile Include="Cotton.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Rice.cs" />
-    <Compile Include="Wheat.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

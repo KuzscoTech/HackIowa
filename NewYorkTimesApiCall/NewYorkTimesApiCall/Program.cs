@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Net.Http;
 using System.Text;
 
 namespace NewYorkTimesApiCall
@@ -10,6 +11,10 @@ namespace NewYorkTimesApiCall
         {
             ShowArticles();
             showWeatherData();
+
+            
+
+            
         }
         private static void ShowArticles()
         {
@@ -35,10 +40,11 @@ namespace NewYorkTimesApiCall
             var weekendWeather = response.WeekWeather;
 
             Console.WriteLine($"Result Found: {response.TimeZone}");
-            foreach(var r in weekendWeather)
+            foreach (var r in weekendWeather)
             {
                 //Console.WriteLine($"{r.Temp}");
             }
+
         }
     }
 }
