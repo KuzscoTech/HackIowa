@@ -1,5 +1,4 @@
-﻿using Crop_Models;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Net.Http;
 using System.Text;
@@ -10,20 +9,8 @@ namespace NewYorkTimesCall
     {
         static void Main(String[] args)
         {
-            //ShowArticles();
-            //showWeatherData();
-
-            Wheat w = new Wheat();
-
-            Console.WriteLine("Enter the amount of acres to be planted");
-            w.CostCalculator(int.Parse(Console.ReadLine()));
-
-            Console.WriteLine("\nEnter the amount of acres to be harvested.");
-            w.ReturnCalculator(int.Parse(Console.ReadLine()));
-
-            
-
-
+            ShowArticles();
+            showWeatherData();
         }
         private static void ShowArticles()
         {
@@ -40,19 +27,20 @@ namespace NewYorkTimesCall
                 Console.WriteLine($"{article.Title} {article.Created_Date}");
             }
 
-            Console.ReadLine();
+           // Console.ReadLine();
         }
 
         private static void showWeatherData()
         {
             var response = WeatherInfo.GetWeather();
             var weekendWeather = response.WeekWeather;
-
+            //var temperate = weekendWeather.Temp;
             Console.WriteLine($"Result Found: {response.TimeZone}");
             foreach (var r in weekendWeather)
             {
-                //Console.WriteLine($"{r.Temp}");
+                Console.WriteLine($"SunRise: {r.Sunrise} WindDeg: {r.Wind_Deg} Weather: {r.Weather[0].Description} Temp_Day: {r.Temp.Morn}");
             }
+            Console.ReadLine();
 
         }
     }

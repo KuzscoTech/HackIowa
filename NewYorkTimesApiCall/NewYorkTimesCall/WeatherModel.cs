@@ -14,26 +14,26 @@ namespace NewYorkTimesCall
     }
     public class WeeklyWeather
     {
-        //public Temperature Temp { get; set; }
-        public double WindSpeed { get; set; }
-        public double WindDeg { get; set; }
-        //public Weather Info { get; set; }
+        [JsonProperty("temp")]
+        public Temperature Temp { get; set; }
+        public double Sunrise { get; set; }
+        public double Wind_Deg { get; set; }
+        public Weather[] Weather { get; set; }
 
     }
     public class Temperature
     {
         public double Day { get; set; }
-        public double MinTemp { get; set; }
-        public double MaxTemp { get; set; }
-        public double NightTemp { get; set; }
-        public double EveningTemp { get; set; }
-        public double MorningTemp { get; set; }
+        public double Min { get; set; }
+        public double Max { get; set; }
+        public double Night { get; set; }
+        public double Eve { get; set; }
+        public double Morn { get; set; }
 
     }
     public class Weather
     {
         public string Main { get; set; }
         public string Description { get; set; }
-
     }
 }
