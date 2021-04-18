@@ -1,7 +1,6 @@
 C:\C++ Projects\HackIowa\NewYorkTimesApiCall\Crop_Models\bin\Debug\Crop_Models.exe.config
 C:\C++ Projects\HackIowa\NewYorkTimesApiCall\Crop_Models\bin\Debug\Crop_Models.exe
 C:\C++ Projects\HackIowa\NewYorkTimesApiCall\Crop_Models\bin\Debug\Crop_Models.pdb
-C:\C++ Projects\HackIowa\NewYorkTimesApiCall\Crop_Models\obj\Debug\Crop_Models.csprojAssemblyReference.cache
 C:\C++ Projects\HackIowa\NewYorkTimesApiCall\Crop_Models\obj\Debug\Crop_Models.csproj.CoreCompileInputs.cache
 C:\C++ Projects\HackIowa\NewYorkTimesApiCall\Crop_Models\obj\Debug\Crop_Models.exe
 C:\C++ Projects\HackIowa\NewYorkTimesApiCall\Crop_Models\obj\Debug\Crop_Models.pdb
