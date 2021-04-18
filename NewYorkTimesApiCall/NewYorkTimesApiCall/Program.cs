@@ -12,6 +12,8 @@ namespace NewYorkTimesApiCall
         static void Main()
         {
             RunAsync().Wait();
+
+            
         }
 
         static async Task RunAsync()
@@ -30,7 +32,7 @@ namespace NewYorkTimesApiCall
                 HttpResponseMessage response = client.GetAsync(ApiKey).Result;
                 if (response.IsSuccessStatusCode)
                 {
-                    var dataObjects = response.Content.ReadAsAsync<IEnumerable<DataObject>>().Result;
+                    ;
                 }
             }
         }
