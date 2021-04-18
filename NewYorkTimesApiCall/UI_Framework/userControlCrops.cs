@@ -196,6 +196,11 @@ namespace UI_Framework
         {
 
         }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
     
 }

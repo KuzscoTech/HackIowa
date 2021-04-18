@@ -43,10 +43,8 @@ namespace UI_Framework
             this.btnCost = new System.Windows.Forms.Button();
             this.btnReturn = new System.Windows.Forms.Button();
             this.btnClear = new System.Windows.Forms.Button();
-            this.lblCost = new System.Windows.Forms.Label();
             this.lblReturn = new System.Windows.Forms.Label();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            this.lblCost = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // lblTitle
@@ -159,7 +157,7 @@ namespace UI_Framework
             // 
             // btnCost
             // 
-            this.btnCost.Location = new System.Drawing.Point(346, 247);
+            this.btnCost.Location = new System.Drawing.Point(263, 317);
             this.btnCost.Name = "btnCost";
             this.btnCost.Size = new System.Drawing.Size(75, 47);
             this.btnCost.TabIndex = 12;
@@ -169,7 +167,7 @@ namespace UI_Framework
             // 
             // btnReturn
             // 
-            this.btnReturn.Location = new System.Drawing.Point(89, 249);
+            this.btnReturn.Location = new System.Drawing.Point(93, 317);
             this.btnReturn.Name = "btnReturn";
             this.btnReturn.Size = new System.Drawing.Size(75, 45);
             this.btnReturn.TabIndex = 13;
@@ -179,7 +177,7 @@ namespace UI_Framework
             // 
             // btnClear
             // 
-            this.btnClear.Location = new System.Drawing.Point(611, 247);
+            this.btnClear.Location = new System.Drawing.Point(437, 317);
             this.btnClear.Name = "btnClear";
             this.btnClear.Size = new System.Drawing.Size(75, 45);
             this.btnClear.TabIndex = 16;
@@ -187,40 +185,31 @@ namespace UI_Framework
             this.btnClear.UseVisualStyleBackColor = true;
             this.btnClear.Click += new System.EventHandler(this.btnClear_Click);
             // 
-            // lblCost
-            // 
-            this.lblCost.AutoSize = true;
-            this.lblCost.Location = new System.Drawing.Point(461, 265);
-            this.lblCost.Name = "lblCost";
-            this.lblCost.Size = new System.Drawing.Size(0, 15);
-            this.lblCost.TabIndex = 17;
-            this.lblCost.Click += new System.EventHandler(this.lblCost_Click);
-            // 
             // lblReturn
             // 
             this.lblReturn.AutoSize = true;
-            this.lblReturn.Location = new System.Drawing.Point(204, 265);
+            this.lblReturn.Location = new System.Drawing.Point(187, 332);
             this.lblReturn.Name = "lblReturn";
             this.lblReturn.Size = new System.Drawing.Size(0, 15);
-            this.lblReturn.TabIndex = 18;
+            this.lblReturn.TabIndex = 19;
             // 
-            // pictureBox1
+            // lblCost
             // 
-            this.pictureBox1.Image = global::UI_Framework.Properties.Resources.crops;
-            this.pictureBox1.Location = new System.Drawing.Point(0, 0);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(755, 351);
-            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox1.TabIndex = 19;
-            this.pictureBox1.TabStop = false;
+            this.lblCost.AutoSize = true;
+            this.lblCost.Location = new System.Drawing.Point(359, 333);
+            this.lblCost.Name = "lblCost";
+            this.lblCost.Size = new System.Drawing.Size(0, 15);
+            this.lblCost.TabIndex = 20;
             // 
             // userControlCrops
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Transparent;
-            this.Controls.Add(this.lblReturn);
+            this.BackgroundImage = global::UI_Framework.Properties.Resources.crops;
+            this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.Controls.Add(this.lblCost);
+            this.Controls.Add(this.lblReturn);
             this.Controls.Add(this.btnClear);
             this.Controls.Add(this.btnReturn);
             this.Controls.Add(this.btnCost);
@@ -235,11 +224,9 @@ namespace UI_Framework
             this.Controls.Add(this.btnWheat);
             this.Controls.Add(this.btnRice);
             this.Controls.Add(this.lblTitle);
-            this.Controls.Add(this.pictureBox1);
             this.Name = "userControlCrops";
-            this.Size = new System.Drawing.Size(755, 351);
+            this.Size = new System.Drawing.Size(755, 403);
             this.Load += new System.EventHandler(this.userControlCrops_Load);
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -261,8 +248,7 @@ namespace UI_Framework
         private System.Windows.Forms.Button btnCost;
         private System.Windows.Forms.Button btnReturn;
         private System.Windows.Forms.Button btnClear;
-        private System.Windows.Forms.Label lblCost;
         private System.Windows.Forms.Label lblReturn;
-        private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.Label lblCost;
     }
 }

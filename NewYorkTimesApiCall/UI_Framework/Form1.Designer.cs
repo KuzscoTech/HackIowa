@@ -29,6 +29,7 @@ namespace UI_Framework
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Main));
             this.btnWeather = new System.Windows.Forms.Button();
             this.btnNews = new System.Windows.Forms.Button();
             this.btnCrops = new System.Windows.Forms.Button();
@@ -72,16 +73,18 @@ namespace UI_Framework
             // userControlCrops1
             // 
             this.userControlCrops1.BackColor = System.Drawing.SystemColors.ControlLight;
-            this.userControlCrops1.Location = new System.Drawing.Point(1067, 417);
+            this.userControlCrops1.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("userControlCrops1.BackgroundImage")));
+            this.userControlCrops1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.userControlCrops1.Location = new System.Drawing.Point(2, -6);
             this.userControlCrops1.Name = "userControlCrops1";
-            this.userControlCrops1.Size = new System.Drawing.Size(729, 373);
+            this.userControlCrops1.Size = new System.Drawing.Size(618, 445);
             this.userControlCrops1.TabIndex = 1;
             // 
             // userControlNews1
             // 
             this.userControlNews1.AutoScroll = true;
             this.userControlNews1.BackColor = System.Drawing.SystemColors.ControlLight;
-            this.userControlNews1.Location = new System.Drawing.Point(15, 12);
+            this.userControlNews1.Location = new System.Drawing.Point(2, 12);
             this.userControlNews1.Name = "userControlNews1";
             this.userControlNews1.Size = new System.Drawing.Size(618, 445);
             this.userControlNews1.TabIndex = 2;
@@ -89,26 +92,30 @@ namespace UI_Framework
             // userControlWeather1
             // 
             this.userControlWeather1.BackColor = System.Drawing.SystemColors.ControlLight;
-            this.userControlWeather1.Location = new System.Drawing.Point(12, 12);
+            this.userControlWeather1.Location = new System.Drawing.Point(2, -6);
             this.userControlWeather1.Name = "userControlWeather1";
-            this.userControlWeather1.Size = new System.Drawing.Size(608, 427);
+            this.userControlWeather1.Size = new System.Drawing.Size(618, 445);
             this.userControlWeather1.TabIndex = 3;
             // 
             // panel1
             // 
+            this.panel1.BackgroundImage = global::UI_Framework.Properties.Resources.wall_2423822_960_720;
+            this.panel1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.panel1.Controls.Add(this.btnNews);
             this.panel1.Controls.Add(this.btnWeather);
             this.panel1.Controls.Add(this.btnCrops);
-            this.panel1.Location = new System.Drawing.Point(12, 463);
+            this.panel1.Location = new System.Drawing.Point(2, 463);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(608, 100);
+            this.panel1.Size = new System.Drawing.Size(618, 100);
             this.panel1.TabIndex = 4;
             // 
             // Main
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1811, 969);
+            this.BackgroundImage = global::UI_Framework.Properties.Resources._194445;
+            this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.ClientSize = new System.Drawing.Size(624, 562);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.userControlWeather1);
             this.Controls.Add(this.userControlNews1);

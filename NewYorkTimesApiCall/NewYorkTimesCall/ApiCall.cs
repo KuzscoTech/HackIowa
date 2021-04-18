@@ -56,7 +56,7 @@ namespace NewYorkTimesCall
 
         public static ArticleFeed GetArticles()
         {
-            string urlParameters = $"content/all/all.json?api-key={apiKey}";
+            string urlParameters = $"content/all/food.json?api-key={apiKey}";
             var response = ApiCall.RunAsync<ArticleFeed>(url, urlParameters).GetAwaiter().GetResult();
             return response;
         }
