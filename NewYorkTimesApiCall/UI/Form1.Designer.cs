@@ -100,7 +100,7 @@ namespace UI
             // 
             this.userWeather2.Location = new System.Drawing.Point(0, -3);
             this.userWeather2.Name = "userWeather2";
-            this.userWeather2.Size = new System.Drawing.Size(776, 329);
+            this.userWeather2.Size = new System.Drawing.Size(788, 354);
             this.userWeather2.TabIndex = 3;
             // 
             // Form1
