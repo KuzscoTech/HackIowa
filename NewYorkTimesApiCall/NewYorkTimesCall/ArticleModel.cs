@@ -15,5 +15,14 @@ namespace NewYorkTimesCall
         public string Title { get; set; }
         public string Created_Date { get; set; }
         public string URL { get; set; }
+        [JsonProperty("multimedia")]
+        public ArticleImages[] Multimedia { get; set; }
+        public string Thumbnail_Standard { get; set; }
+    }
+    public class ArticleImages
+    {
+        public string URL { get; set; }
+        public int Width { get; set; }
+        public int Height { get; set; }
     }
 }

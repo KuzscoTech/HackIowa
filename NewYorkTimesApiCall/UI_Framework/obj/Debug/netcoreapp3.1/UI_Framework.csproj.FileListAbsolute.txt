@@ -21,3 +21,45 @@ C:\Users\gabri\OneDrive\Desktop\projects\Hackathon\HackIowa\NewYorkTimesApiCall\
 C:\Users\gabri\OneDrive\Desktop\projects\Hackathon\HackIowa\NewYorkTimesApiCall\UI_Framework\obj\Debug\netcoreapp3.1\UI_Framework.dll
 C:\Users\gabri\OneDrive\Desktop\projects\Hackathon\HackIowa\NewYorkTimesApiCall\UI_Framework\obj\Debug\netcoreapp3.1\UI_Framework.pdb
 C:\Users\gabri\OneDrive\Desktop\projects\Hackathon\HackIowa\NewYorkTimesApiCall\UI_Framework\obj\Debug\netcoreapp3.1\UI_Framework.genruntimeconfig.cache
+C:\C++ Projects\HackIowa\NewYorkTimesApiCall\UI_Framework\bin\Debug\netcoreapp3.1\UI_Framework.exe
+C:\C++ Projects\HackIowa\NewYorkTimesApiCall\UI_Framework\bin\Debug\netcoreapp3.1\UI_Framework.deps.json
+C:\C++ Projects\HackIowa\NewYorkTimesApiCall\UI_Framework\bin\Debug\netcoreapp3.1\UI_Framework.runtimeconfig.json
+C:\C++ Projects\HackIowa\NewYorkTimesApiCall\UI_Framework\bin\Debug\netcoreapp3.1\UI_Framework.runtimeconfig.dev.json
+C:\C++ Projects\HackIowa\NewYorkTimesApiCall\UI_Framework\bin\Debug\netcoreapp3.1\UI_Framework.dll
+C:\C++ Projects\HackIowa\NewYorkTimesApiCall\UI_Framework\bin\Debug\netcoreapp3.1\UI_Framework.pdb
+C:\C++ Projects\HackIowa\NewYorkTimesApiCall\UI_Framework\bin\Debug\netcoreapp3.1\Crop_Models.exe
+C:\C++ Projects\HackIowa\NewYorkTimesApiCall\UI_Framework\bin\Debug\netcoreapp3.1\Crop_Models.pdb
+C:\C++ Projects\HackIowa\NewYorkTimesApiCall\UI_Framework\bin\Debug\netcoreapp3.1\Crop_Models.exe.config
+C:\C++ Projects\HackIowa\NewYorkTimesApiCall\UI_Framework\obj\Debug\netcoreapp3.1\UI_Framework.csprojAssemblyReference.cache
+C:\C++ Projects\HackIowa\NewYorkTimesApiCall\UI_Framework\obj\Debug\netcoreapp3.1\UI_Framework.Main.resources
+C:\C++ Projects\HackIowa\NewYorkTimesApiCall\UI_Framework\obj\Debug\netcoreapp3.1\UI_Framework.Properties.Resources.resources
+C:\C++ Projects\HackIowa\NewYorkTimesApiCall\UI_Framework\obj\Debug\netcoreapp3.1\UI_Framework.userControlCrops.resources
+C:\C++ Projects\HackIowa\NewYorkTimesApiCall\UI_Framework\obj\Debug\netcoreapp3.1\UI_Framework.userControlNews.resources
+C:\C++ Projects\HackIowa\NewYorkTimesApiCall\UI_Framework\obj\Debug\netcoreapp3.1\UI_Framework.userControlWeather.resources
+C:\C++ Projects\HackIowa\NewYorkTimesApiCall\UI_Framework\obj\Debug\netcoreapp3.1\UI_Framework.csproj.GenerateResource.cache
+C:\C++ Projects\HackIowa\NewYorkTimesApiCall\UI_Framework\obj\Debug\netcoreapp3.1\UI_Framework.AssemblyInfoInputs.cache
+C:\C++ Projects\HackIowa\NewYorkTimesApiCall\UI_Framework\obj\Debug\netcoreapp3.1\UI_Framework.AssemblyInfo.cs
+C:\C++ Projects\HackIowa\NewYorkTimesApiCall\UI_Framework\obj\Debug\netcoreapp3.1\UI_Framework.csproj.CoreCompileInputs.cache
+C:\C++ Projects\HackIowa\NewYorkTimesApiCall\UI_Framework\obj\Debug\netcoreapp3.1\UI_Framework.csproj.CopyComplete
+C:\C++ Projects\HackIowa\NewYorkTimesApiCall\UI_Framework\obj\Debug\netcoreapp3.1\UI_Framework.dll
+C:\C++ Projects\HackIowa\NewYorkTimesApiCall\UI_Framework\obj\Debug\netcoreapp3.1\UI_Framework.pdb
+C:\C++ Projects\HackIowa\NewYorkTimesApiCall\UI_Framework\obj\Debug\netcoreapp3.1\UI_Framework.genruntimeconfig.cache
+C:\C++ Projects\HackIowa\NewYorkTimesApiCall\UI_Framework\bin\Debug\netcoreapp3.1\NewYorkTimesCall.exe
+C:\C++ Projects\HackIowa\NewYorkTimesApiCall\UI_Framework\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\C++ Projects\HackIowa\NewYorkTimesApiCall\UI_Framework\bin\Debug\netcoreapp3.1\NewYorkTimesCall.pdb
+C:\C++ Projects\HackIowa\NewYorkTimesApiCall\UI_Framework\bin\Debug\netcoreapp3.1\NewYorkTimesCall.exe.config
+C:\C++ Projects\HackIowa\NewYorkTimesApiCall\UI_Framework\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\C++ Projects\HackIowa\NewYorkTimesApiCall\UI_Framework\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\C++ Projects\HackIowa\NewYorkTimesApiCall\UI_Framework\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\C++ Projects\HackIowa\NewYorkTimesApiCall\UI_Framework\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\C++ Projects\HackIowa\NewYorkTimesApiCall\UI_Framework\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Http.dll
+C:\C++ Projects\HackIowa\NewYorkTimesApiCall\UI_Framework\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\C++ Projects\HackIowa\NewYorkTimesApiCall\UI_Framework\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\C++ Projects\HackIowa\NewYorkTimesApiCall\UI_Framework\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\C++ Projects\HackIowa\NewYorkTimesApiCall\UI_Framework\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\C++ Projects\HackIowa\NewYorkTimesApiCall\UI_Framework\bin\Debug\netcoreapp3.1\System.Net.Http.Extensions.dll
+C:\C++ Projects\HackIowa\NewYorkTimesApiCall\UI_Framework\bin\Debug\netcoreapp3.1\System.Net.Http.Primitives.dll
+C:\C++ Projects\HackIowa\NewYorkTimesApiCall\UI_Framework\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\C++ Projects\HackIowa\NewYorkTimesApiCall\UI_Framework\bin\Debug\netcoreapp3.1\System.Net.Http.Json.dll
+C:\C++ Projects\HackIowa\NewYorkTimesApiCall\UI_Framework\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\C++ Projects\HackIowa\NewYorkTimesApiCall\UI_Framework\obj\Debug\netcoreapp3.1\UI_Framework.UserControl1.resources

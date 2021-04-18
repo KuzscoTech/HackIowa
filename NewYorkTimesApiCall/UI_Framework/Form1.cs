@@ -18,7 +18,6 @@ namespace UI_Framework
             InitializeComponent();
         }
 
-        
 
         private void Form1_Load(object sender, EventArgs e)
         {

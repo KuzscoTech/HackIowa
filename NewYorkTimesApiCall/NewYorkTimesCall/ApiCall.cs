@@ -25,7 +25,7 @@ namespace NewYorkTimesCall
             {
                 using (var client = GetHttpClient(url))
                 {
-                    HttpResponseMessage response = await client.GetAsync(urlParameters);
+                    HttpResponseMessage response = await client.GetAsync(urlParameters).ConfigureAwait(false);
                     if (response.StatusCode == HttpStatusCode.OK)
                     {
                         var json = await response.Content.ReadAsStringAsync();
@@ -45,7 +45,7 @@ namespace NewYorkTimesCall
 
         public static async Task<T> RunAsync<T>(string url, string urlParameters)
         {
-            return await GetAsync<T>(url, urlParameters);
+            return await GetAsync<T>(url, urlParameters).ConfigureAwait(false);
         }
     }
     //All the Api Call's
@@ -56,7 +56,7 @@ namespace NewYorkTimesCall
 
         public static ArticleFeed GetArticles()
         {
-            string urlParameters = $"content/all/all.json?api-key={apiKey}";
+            string urlParameters = $"content/all/food.json?api-key={apiKey}";
             var response = ApiCall.RunAsync<ArticleFeed>(url, urlParameters).GetAwaiter().GetResult();
             return response;
         }

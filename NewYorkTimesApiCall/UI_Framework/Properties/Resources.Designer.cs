@@ -63,6 +63,36 @@ namespace UI_Framework.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _194445 {
+            get {
+                object obj = ResourceManager.GetObject("194445", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap crops {
+            get {
+                object obj = ResourceManager.GetObject("crops", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Dq6vJd {
+            get {
+                object obj = ResourceManager.GetObject("Dq6vJd", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap gettyimages_471500644 {
             get {
                 object obj = ResourceManager.GetObject("gettyimages-471500644", resourceCulture);
@@ -86,6 +116,16 @@ namespace UI_Framework.Properties {
         internal static System.Drawing.Bitmap June_20_Stock_Market_News_7 {
             get {
                 object obj = ResourceManager.GetObject("June-20-Stock-Market-News_7", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap wall_2423822_960_720 {
+            get {
+                object obj = ResourceManager.GetObject("wall-2423822_960_720", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
