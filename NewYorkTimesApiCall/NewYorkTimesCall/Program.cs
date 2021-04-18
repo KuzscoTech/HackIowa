@@ -9,26 +9,26 @@ namespace NewYorkTimesCall
     {
         static void Main(String[] args)
         {
-            ShowArticles();
+            //ShowArticles();
             showWeatherData();
         }
-        private static void ShowArticles()
-        {
-            var response = NYInfo.GetArticles();
-            var articles = response.Articles;
+        //private void ShowArticles()
+        //{
+        //    var response = NYInfo.GetArticles();
+        //    var articles = response.Articles;
 
-            Console.WriteLine($"Result Found: {response.ResultsFound}");
-            Console.WriteLine($"{"Title",-10} {"Created_Date",-40}");
+        //    Console.WriteLine($"Result Found: {response.ResultsFound}");
+        //    Console.WriteLine($"{"Title",-10} {"Created_Date",-40}");
 
-            foreach (var r in articles)
-            {
-                var article = r;
+        //    foreach (var r in articles)
+        //    {
+        //        var article = r;
 
-                Console.WriteLine($"{article.Title} {article.Created_Date}");
-            }
+        //        Console.WriteLine($"{article.Title} {article.Created_Date}");
+        //    }
 
-           // Console.ReadLine();
-        }
+        //    Console.ReadLine();
+        //}
 
         private static void showWeatherData()
         {

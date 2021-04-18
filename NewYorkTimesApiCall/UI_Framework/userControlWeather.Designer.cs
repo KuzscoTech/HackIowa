@@ -32,17 +32,15 @@ namespace UI_Framework
             this.lblTitle = new System.Windows.Forms.Label();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            this.flowLayoutPanel1 = new System.Windows.Forms.FlowLayoutPanel();
             this.SuspendLayout();
             // 
-            // lblTitle
+            // flowLayoutPanel1
             // 
-            this.lblTitle.AutoSize = true;
-            this.lblTitle.Font = new System.Drawing.Font("Segoe UI", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.lblTitle.Location = new System.Drawing.Point(185, 150);
-            this.lblTitle.Name = "lblTitle";
-            this.lblTitle.Size = new System.Drawing.Size(103, 32);
-            this.lblTitle.TabIndex = 0;
-            this.lblTitle.Text = "Weather";
+            this.flowLayoutPanel1.Location = new System.Drawing.Point(0, 0);
+            this.flowLayoutPanel1.Name = "flowLayoutPanel1";
+            this.flowLayoutPanel1.Size = new System.Drawing.Size(657, 456);
+            this.flowLayoutPanel1.TabIndex = 0;
             // 
             // pictureBox1
             // 
@@ -63,8 +61,11 @@ namespace UI_Framework
             this.Name = "userControlWeather";
             this.Size = new System.Drawing.Size(766, 360);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            this.Controls.Add(this.flowLayoutPanel1);
+            this.Name = "userControlWeather";
+            this.Size = new System.Drawing.Size(657, 456);
+            this.Load += new System.EventHandler(this.userControlWeather_Load);
             this.ResumeLayout(false);
-            this.PerformLayout();
 
         }
 
@@ -72,5 +73,6 @@ namespace UI_Framework
 
         private System.Windows.Forms.Label lblTitle;
         private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.FlowLayoutPanel flowLayoutPanel1;
     }
 }

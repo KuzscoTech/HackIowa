@@ -6,6 +6,9 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crop_Models", "Crop_Models\Crop_Models.csproj", "{275B0284-41CF-49FA-B916-4EAA825C5D9C}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UI_Framework", "UI_Framework\UI_Framework.csproj", "{E0079F51-7B5F-4DFC-B925-CAA6AD6051DF}"
+	ProjectSection(ProjectDependencies) = postProject
+		{219A3E0E-D4DC-4595-A0AB-A64AAEEAD0FD} = {219A3E0E-D4DC-4595-A0AB-A64AAEEAD0FD}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewYorkTimesCall", "NewYorkTimesCall\NewYorkTimesCall.csproj", "{219A3E0E-D4DC-4595-A0AB-A64AAEEAD0FD}"
 	ProjectSection(ProjectDependencies) = postProject
