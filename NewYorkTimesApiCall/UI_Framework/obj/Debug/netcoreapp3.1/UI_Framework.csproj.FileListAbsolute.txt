@@ -1,0 +1,10 @@
+C:\Users\gabri\OneDrive\Desktop\projects\Hackathon\HackIowa\NewYorkTimesApiCall\UI_Framework\obj\Debug\netcoreapp3.1\UI_Framework.csprojAssemblyReference.cache
+C:\Users\gabri\OneDrive\Desktop\projects\Hackathon\HackIowa\NewYorkTimesApiCall\UI_Framework\obj\Debug\netcoreapp3.1\UI_Framework.Main.resources
+C:\Users\gabri\OneDrive\Desktop\projects\Hackathon\HackIowa\NewYorkTimesApiCall\UI_Framework\obj\Debug\netcoreapp3.1\UI_Framework.Properties.Resources.resources
+C:\Users\gabri\OneDrive\Desktop\projects\Hackathon\HackIowa\NewYorkTimesApiCall\UI_Framework\obj\Debug\netcoreapp3.1\UI_Framework.userControlCrops.resources
+C:\Users\gabri\OneDrive\Desktop\projects\Hackathon\HackIowa\NewYorkTimesApiCall\UI_Framework\obj\Debug\netcoreapp3.1\UI_Framework.userControlNews.resources
+C:\Users\gabri\OneDrive\Desktop\projects\Hackathon\HackIowa\NewYorkTimesApiCall\UI_Framework\obj\Debug\netcoreapp3.1\UI_Framework.userControlWeather.resources
+C:\Users\gabri\OneDrive\Desktop\projects\Hackathon\HackIowa\NewYorkTimesApiCall\UI_Framework\obj\Debug\netcoreapp3.1\UI_Framework.csproj.GenerateResource.cache
+C:\Users\gabri\OneDrive\Desktop\projects\Hackathon\HackIowa\NewYorkTimesApiCall\UI_Framework\obj\Debug\netcoreapp3.1\UI_Framework.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Desktop\projects\Hackathon\HackIowa\NewYorkTimesApiCall\UI_Framework\obj\Debug\netcoreapp3.1\UI_Framework.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Desktop\projects\Hackathon\HackIowa\NewYorkTimesApiCall\UI_Framework\obj\Debug\netcoreapp3.1\UI_Framework.csproj.CoreCompileInputs.cache

@@ -1,27 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gabri\\OneDrive\\Desktop\\projects\\Hackathon\\HackIowa\\NewYorkTimesApiCall\\UI_Framework\\UI_Framework.csproj": {}
+    "C:\\Users\\gabri\\OneDrive\\Desktop\\projects\\Hackathon\\HackIowa\\NewYorkTimesApiCall\\UI\\UI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gabri\\OneDrive\\Desktop\\projects\\Hackathon\\HackIowa\\NewYorkTimesApiCall\\Crop_Models\\Crop_Models.csproj": {
-      "restore": {
-        "projectUniqueName": "C:\\Users\\gabri\\OneDrive\\Desktop\\projects\\Hackathon\\HackIowa\\NewYorkTimesApiCall\\Crop_Models\\Crop_Models.csproj",
-        "projectName": "Crop_Models",
-        "projectPath": "C:\\Users\\gabri\\OneDrive\\Desktop\\projects\\Hackathon\\HackIowa\\NewYorkTimesApiCall\\Crop_Models\\Crop_Models.csproj"
-      },
-      "frameworks": {
-        "net472": {}
-      }
-    },
-    "C:\\Users\\gabri\\OneDrive\\Desktop\\projects\\Hackathon\\HackIowa\\NewYorkTimesApiCall\\UI_Framework\\UI_Framework.csproj": {
+    "C:\\Users\\gabri\\OneDrive\\Desktop\\projects\\Hackathon\\HackIowa\\NewYorkTimesApiCall\\UI\\UI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gabri\\OneDrive\\Desktop\\projects\\Hackathon\\HackIowa\\NewYorkTimesApiCall\\UI_Framework\\UI_Framework.csproj",
-        "projectName": "UI_Framework",
-        "projectPath": "C:\\Users\\gabri\\OneDrive\\Desktop\\projects\\Hackathon\\HackIowa\\NewYorkTimesApiCall\\UI_Framework\\UI_Framework.csproj",
+        "projectUniqueName": "C:\\Users\\gabri\\OneDrive\\Desktop\\projects\\Hackathon\\HackIowa\\NewYorkTimesApiCall\\UI\\UI.csproj",
+        "projectName": "UI",
+        "projectPath": "C:\\Users\\gabri\\OneDrive\\Desktop\\projects\\Hackathon\\HackIowa\\NewYorkTimesApiCall\\UI\\UI.csproj",
         "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gabri\\OneDrive\\Desktop\\projects\\Hackathon\\HackIowa\\NewYorkTimesApiCall\\UI_Framework\\obj\\",
+        "outputPath": "C:\\Users\\gabri\\OneDrive\\Desktop\\projects\\Hackathon\\HackIowa\\NewYorkTimesApiCall\\UI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -43,11 +33,7 @@
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
-            "projectReferences": {
-              "C:\\Users\\gabri\\OneDrive\\Desktop\\projects\\Hackathon\\HackIowa\\NewYorkTimesApiCall\\Crop_Models\\Crop_Models.csproj": {
-                "projectPath": "C:\\Users\\gabri\\OneDrive\\Desktop\\projects\\Hackathon\\HackIowa\\NewYorkTimesApiCall\\Crop_Models\\Crop_Models.csproj"
-              }
-            }
+            "projectReferences": {}
           }
         },
         "warningProperties": {
