@@ -46,18 +46,19 @@ namespace Crop_Models
             Console.WriteLine("Tools required for crop: {0}", Tools);
         }
 
-        public double CostCalculator(int _acres)
+        public void CostCalculator(int _acres)
         {
+            
             double product = _acres * CostPerAcre;
 
-            return product;
+            Console.WriteLine("Cost: {0:C2}", product);
         }
 
-        public double ReturnCalculator(int _acres)
+        public void ReturnCalculator(int _acres)
         {
             double product = _acres * ReturnPerAcre;
 
-            return product;
+            Console.WriteLine("Return: {0:C2}", product);
         }
     }
 }

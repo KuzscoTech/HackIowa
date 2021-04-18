@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Crop_Models;
+using System;
 using System.Collections.Generic;
 using System.Net.Http;
 using System.Text;
@@ -9,10 +10,18 @@ namespace NewYorkTimesCall
     {
         static void Main(String[] args)
         {
-            ShowArticles();
-            showWeatherData();
+            //ShowArticles();
+            //showWeatherData();
 
+            Wheat w = new Wheat();
 
+            Console.WriteLine("Enter the amount of acres to be planted");
+            w.CostCalculator(int.Parse(Console.ReadLine()));
+
+            Console.WriteLine("\nEnter the amount of acres to be harvested.");
+            w.ReturnCalculator(int.Parse(Console.ReadLine()));
+
+            
 
 
         }

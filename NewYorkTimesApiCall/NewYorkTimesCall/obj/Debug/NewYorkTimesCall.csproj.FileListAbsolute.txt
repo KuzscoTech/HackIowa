@@ -1,0 +1,13 @@
+C:\Users\gabri\OneDrive\Desktop\projects\Hackathon\HackIowa\NewYorkTimesApiCall\NewYorkTimesCall\bin\Debug\NewYorkTimesCall.exe.config
+C:\Users\gabri\OneDrive\Desktop\projects\Hackathon\HackIowa\NewYorkTimesApiCall\NewYorkTimesCall\bin\Debug\NewYorkTimesCall.exe
+C:\Users\gabri\OneDrive\Desktop\projects\Hackathon\HackIowa\NewYorkTimesApiCall\NewYorkTimesCall\bin\Debug\NewYorkTimesCall.pdb
+C:\Users\gabri\OneDrive\Desktop\projects\Hackathon\HackIowa\NewYorkTimesApiCall\NewYorkTimesCall\bin\Debug\Crop_Models.exe
+C:\Users\gabri\OneDrive\Desktop\projects\Hackathon\HackIowa\NewYorkTimesApiCall\NewYorkTimesCall\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gabri\OneDrive\Desktop\projects\Hackathon\HackIowa\NewYorkTimesApiCall\NewYorkTimesCall\bin\Debug\Crop_Models.pdb
+C:\Users\gabri\OneDrive\Desktop\projects\Hackathon\HackIowa\NewYorkTimesApiCall\NewYorkTimesCall\bin\Debug\Crop_Models.exe.config
+C:\Users\gabri\OneDrive\Desktop\projects\Hackathon\HackIowa\NewYorkTimesApiCall\NewYorkTimesCall\bin\Debug\Newtonsoft.Json.xml
+C:\Users\gabri\OneDrive\Desktop\projects\Hackathon\HackIowa\NewYorkTimesApiCall\NewYorkTimesCall\obj\Debug\NewYorkTimesCall.csprojAssemblyReference.cache
+C:\Users\gabri\OneDrive\Desktop\projects\Hackathon\HackIowa\NewYorkTimesApiCall\NewYorkTimesCall\obj\Debug\NewYorkTimesCall.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Desktop\projects\Hackathon\HackIowa\NewYorkTimesApiCall\NewYorkTimesCall\obj\Debug\NewYorkTimesCall.csproj.CopyComplete
+C:\Users\gabri\OneDrive\Desktop\projects\Hackathon\HackIowa\NewYorkTimesApiCall\NewYorkTimesCall\obj\Debug\NewYorkTimesCall.exe
+C:\Users\gabri\OneDrive\Desktop\projects\Hackathon\HackIowa\NewYorkTimesApiCall\NewYorkTimesCall\obj\Debug\NewYorkTimesCall.pdb
