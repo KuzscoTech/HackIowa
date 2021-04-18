@@ -1,40 +1,50 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Text;
 using System.Net.Http;
-using System.Net.Http.Headers;
-using System.Threading.Tasks;
+using System.Text;
 
 namespace NewYorkTimesApiCall
 {
     class Program
     {
-        static void Main()
+        static void Main(String[] args)
         {
-            RunAsync().Wait();
+            ShowArticles();
+            showWeatherData();
+
+            
 
             
         }
-
-        static async Task RunAsync()
+        private static void ShowArticles()
         {
-            using (var client = new HttpClient())
-            {
-                const string URL = "https://api.nytimes.com/svc/news/v3/content/all/all.json";
-                //TODO- Send HTTP Request
-                string ApiKey = "?api-key=AdIG9NVHa94B5dAiOshHTW4lDxOy2clr";
-                //Base Address and Init
-                client.BaseAddress = new Uri(URL);
-                client.DefaultRequestHeaders.Accept.Clear();
-                client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
+            var response = NYInfo.GetArticles();
+            var articles = response.Articles;
 
-                //Getting the actual Api Call Data
-                HttpResponseMessage response = client.GetAsync(ApiKey).Result;
-                if (response.IsSuccessStatusCode)
-                {
-                    ;
-                }
+            Console.WriteLine($"Result Found: {response.ResultsFound}");
+            Console.WriteLine($"{"Title",-10} {"Created_Date",-40}");
+
+            foreach(var r in articles)
+            {
+                var article = r;
+
+                Console.WriteLine($"{article.Title} {article.Created_Date}");
             }
+
+            Console.ReadLine();
+        }
+
+        private static void showWeatherData()
+        {
+            var response = WeatherInfo.GetWeather();
+            var weekendWeather = response.WeekWeather;
+
+            Console.WriteLine($"Result Found: {response.TimeZone}");
+            foreach (var r in weekendWeather)
+            {
+                //Console.WriteLine($"{r.Temp}");
+            }
+
         }
     }
 }

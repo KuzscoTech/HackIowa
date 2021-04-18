@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gabri\\OneDrive\\Desktop\\projects\\Hackathon\\HackIowa\\NewYorkTimesApiCall\\NewYorkTimesApiCall\\NewYorkTimesApiCall.csproj": {}
+    "C:\\Users\\gabri\\OneDrive\\Desktop\\projects\\Hackathon\\HackIowa\\NewYorkTimesApiCall\\UI_Framework\\UI_Framework.csproj": {}
   },
   "projects": {
     "C:\\Users\\gabri\\OneDrive\\Desktop\\projects\\Hackathon\\HackIowa\\NewYorkTimesApiCall\\Crop_Models\\Crop_Models.csproj": {
@@ -14,14 +14,14 @@
         "net472": {}
       }
     },
-    "C:\\Users\\gabri\\OneDrive\\Desktop\\projects\\Hackathon\\HackIowa\\NewYorkTimesApiCall\\NewYorkTimesApiCall\\NewYorkTimesApiCall.csproj": {
+    "C:\\Users\\gabri\\OneDrive\\Desktop\\projects\\Hackathon\\HackIowa\\NewYorkTimesApiCall\\UI_Framework\\UI_Framework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gabri\\OneDrive\\Desktop\\projects\\Hackathon\\HackIowa\\NewYorkTimesApiCall\\NewYorkTimesApiCall\\NewYorkTimesApiCall.csproj",
-        "projectName": "NewYorkTimesApiCall",
-        "projectPath": "C:\\Users\\gabri\\OneDrive\\Desktop\\projects\\Hackathon\\HackIowa\\NewYorkTimesApiCall\\NewYorkTimesApiCall\\NewYorkTimesApiCall.csproj",
+        "projectUniqueName": "C:\\Users\\gabri\\OneDrive\\Desktop\\projects\\Hackathon\\HackIowa\\NewYorkTimesApiCall\\UI_Framework\\UI_Framework.csproj",
+        "projectName": "UI_Framework",
+        "projectPath": "C:\\Users\\gabri\\OneDrive\\Desktop\\projects\\Hackathon\\HackIowa\\NewYorkTimesApiCall\\UI_Framework\\UI_Framework.csproj",
         "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gabri\\OneDrive\\Desktop\\projects\\Hackathon\\HackIowa\\NewYorkTimesApiCall\\NewYorkTimesApiCall\\obj\\",
+        "outputPath": "C:\\Users\\gabri\\OneDrive\\Desktop\\projects\\Hackathon\\HackIowa\\NewYorkTimesApiCall\\UI_Framework\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -59,12 +59,6 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "dependencies": {
-            "Microsoft.AspNet.WebApi.Client": {
-              "target": "Package",
-              "version": "[5.2.7, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -78,6 +72,9 @@
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"

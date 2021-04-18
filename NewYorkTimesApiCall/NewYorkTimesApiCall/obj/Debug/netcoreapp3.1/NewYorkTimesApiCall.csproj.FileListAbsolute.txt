@@ -15,3 +15,26 @@ C:\C++ Projects\NewYorkTimesApiCall\NewYorkTimesApiCall\obj\Debug\netcoreapp3.1\
 C:\C++ Projects\NewYorkTimesApiCall\NewYorkTimesApiCall\obj\Debug\netcoreapp3.1\NewYorkTimesApiCall.dll
 C:\C++ Projects\NewYorkTimesApiCall\NewYorkTimesApiCall\obj\Debug\netcoreapp3.1\NewYorkTimesApiCall.pdb
 C:\C++ Projects\NewYorkTimesApiCall\NewYorkTimesApiCall\obj\Debug\netcoreapp3.1\NewYorkTimesApiCall.genruntimeconfig.cache
+C:\C++ Projects\HackIowa\NewYorkTimesApiCall\NewYorkTimesApiCall\obj\Debug\netcoreapp3.1\NewYorkTimesApiCall.csprojAssemblyReference.cache
+C:\C++ Projects\HackIowa\NewYorkTimesApiCall\NewYorkTimesApiCall\obj\Debug\netcoreapp3.1\NewYorkTimesApiCall.AssemblyInfoInputs.cache
+C:\C++ Projects\HackIowa\NewYorkTimesApiCall\NewYorkTimesApiCall\obj\Debug\netcoreapp3.1\NewYorkTimesApiCall.AssemblyInfo.cs
+C:\C++ Projects\HackIowa\NewYorkTimesApiCall\NewYorkTimesApiCall\obj\Debug\netcoreapp3.1\NewYorkTimesApiCall.csproj.CoreCompileInputs.cache
+C:\C++ Projects\HackIowa\NewYorkTimesApiCall\NewYorkTimesApiCall\obj\Debug\netcoreapp3.1\NewYorkTimesApiCall.dll
+C:\C++ Projects\HackIowa\NewYorkTimesApiCall\NewYorkTimesApiCall\obj\Debug\netcoreapp3.1\NewYorkTimesApiCall.pdb
+C:\C++ Projects\HackIowa\NewYorkTimesApiCall\NewYorkTimesApiCall\bin\Debug\netcoreapp3.1\NewYorkTimesApiCall.exe
+C:\C++ Projects\HackIowa\NewYorkTimesApiCall\NewYorkTimesApiCall\bin\Debug\netcoreapp3.1\NewYorkTimesApiCall.deps.json
+C:\C++ Projects\HackIowa\NewYorkTimesApiCall\NewYorkTimesApiCall\bin\Debug\netcoreapp3.1\NewYorkTimesApiCall.runtimeconfig.json
+C:\C++ Projects\HackIowa\NewYorkTimesApiCall\NewYorkTimesApiCall\bin\Debug\netcoreapp3.1\NewYorkTimesApiCall.runtimeconfig.dev.json
+C:\C++ Projects\HackIowa\NewYorkTimesApiCall\NewYorkTimesApiCall\bin\Debug\netcoreapp3.1\NewYorkTimesApiCall.dll
+C:\C++ Projects\HackIowa\NewYorkTimesApiCall\NewYorkTimesApiCall\bin\Debug\netcoreapp3.1\NewYorkTimesApiCall.pdb
+C:\C++ Projects\HackIowa\NewYorkTimesApiCall\NewYorkTimesApiCall\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\C++ Projects\HackIowa\NewYorkTimesApiCall\NewYorkTimesApiCall\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\C++ Projects\HackIowa\NewYorkTimesApiCall\NewYorkTimesApiCall\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\C++ Projects\HackIowa\NewYorkTimesApiCall\NewYorkTimesApiCall\obj\Debug\netcoreapp3.1\NewYorkTimesApiCall.csproj.CopyComplete
+C:\C++ Projects\HackIowa\NewYorkTimesApiCall\NewYorkTimesApiCall\obj\Debug\netcoreapp3.1\NewYorkTimesApiCall.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Desktop\projects\Hackathon\HackIowa\NewYorkTimesApiCall\NewYorkTimesApiCall\obj\Debug\netcoreapp3.1\NewYorkTimesApiCall.csprojAssemblyReference.cache
+C:\Users\gabri\OneDrive\Desktop\projects\Hackathon\HackIowa\NewYorkTimesApiCall\NewYorkTimesApiCall\obj\Debug\netcoreapp3.1\NewYorkTimesApiCall.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Desktop\projects\Hackathon\HackIowa\NewYorkTimesApiCall\NewYorkTimesApiCall\obj\Debug\netcoreapp3.1\NewYorkTimesApiCall.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Desktop\projects\Hackathon\HackIowa\NewYorkTimesApiCall\NewYorkTimesApiCall\obj\Debug\netcoreapp3.1\NewYorkTimesApiCall.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Desktop\projects\Hackathon\HackIowa\NewYorkTimesApiCall\NewYorkTimesApiCall\obj\Debug\netcoreapp3.1\NewYorkTimesApiCall.dll
+C:\Users\gabri\OneDrive\Desktop\projects\Hackathon\HackIowa\NewYorkTimesApiCall\NewYorkTimesApiCall\obj\Debug\netcoreapp3.1\NewYorkTimesApiCall.pdb
