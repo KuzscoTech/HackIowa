@@ -1,0 +1,17 @@
+C:\Users\gabri\OneDrive\Desktop\projects\Hackathon\HackIowa\NewYorkTimesApiCall\UI\bin\Debug\netcoreapp3.1\UI.exe
+C:\Users\gabri\OneDrive\Desktop\projects\Hackathon\HackIowa\NewYorkTimesApiCall\UI\bin\Debug\netcoreapp3.1\UI.deps.json
+C:\Users\gabri\OneDrive\Desktop\projects\Hackathon\HackIowa\NewYorkTimesApiCall\UI\bin\Debug\netcoreapp3.1\UI.runtimeconfig.json
+C:\Users\gabri\OneDrive\Desktop\projects\Hackathon\HackIowa\NewYorkTimesApiCall\UI\bin\Debug\netcoreapp3.1\UI.runtimeconfig.dev.json
+C:\Users\gabri\OneDrive\Desktop\projects\Hackathon\HackIowa\NewYorkTimesApiCall\UI\bin\Debug\netcoreapp3.1\UI.dll
+C:\Users\gabri\OneDrive\Desktop\projects\Hackathon\HackIowa\NewYorkTimesApiCall\UI\bin\Debug\netcoreapp3.1\UI.pdb
+C:\Users\gabri\OneDrive\Desktop\projects\Hackathon\HackIowa\NewYorkTimesApiCall\UI\obj\Debug\netcoreapp3.1\UI.Form1.resources
+C:\Users\gabri\OneDrive\Desktop\projects\Hackathon\HackIowa\NewYorkTimesApiCall\UI\obj\Debug\netcoreapp3.1\UI.userCrops.resources
+C:\Users\gabri\OneDrive\Desktop\projects\Hackathon\HackIowa\NewYorkTimesApiCall\UI\obj\Debug\netcoreapp3.1\UI.userNews.resources
+C:\Users\gabri\OneDrive\Desktop\projects\Hackathon\HackIowa\NewYorkTimesApiCall\UI\obj\Debug\netcoreapp3.1\UI.userWeather.resources
+C:\Users\gabri\OneDrive\Desktop\projects\Hackathon\HackIowa\NewYorkTimesApiCall\UI\obj\Debug\netcoreapp3.1\UI.csproj.GenerateResource.cache
+C:\Users\gabri\OneDrive\Desktop\projects\Hackathon\HackIowa\NewYorkTimesApiCall\UI\obj\Debug\netcoreapp3.1\UI.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Desktop\projects\Hackathon\HackIowa\NewYorkTimesApiCall\UI\obj\Debug\netcoreapp3.1\UI.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Desktop\projects\Hackathon\HackIowa\NewYorkTimesApiCall\UI\obj\Debug\netcoreapp3.1\UI.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Desktop\projects\Hackathon\HackIowa\NewYorkTimesApiCall\UI\obj\Debug\netcoreapp3.1\UI.dll
+C:\Users\gabri\OneDrive\Desktop\projects\Hackathon\HackIowa\NewYorkTimesApiCall\UI\obj\Debug\netcoreapp3.1\UI.pdb
+C:\Users\gabri\OneDrive\Desktop\projects\Hackathon\HackIowa\NewYorkTimesApiCall\UI\obj\Debug\netcoreapp3.1\UI.genruntimeconfig.cache
