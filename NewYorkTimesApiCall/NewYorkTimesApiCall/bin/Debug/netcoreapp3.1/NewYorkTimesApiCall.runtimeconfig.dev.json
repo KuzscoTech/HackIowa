@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "C:\\Users\\mcbea\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\mcbea\\.nuget\\packages"
-    ]
-  }
-}
