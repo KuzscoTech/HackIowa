@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sJL8Xa3c+IU3fYkvx023aFVBsbTm5OxtHbKk+CGkgsdNLceH/zV5QL67jImV9rxEOrejCnup8Tm45Ol3Fgahyw==",
+  "dgSpecHash": "iJQlXs1kCbRZDwbvot6TxdxzGrb+HACftT7MuOXjHzb17raJkZrZVeDR8xLcrDEpigBywtQDqwRMJWWuVxVsNA==",
   "success": true,
-  "projectFilePath": "C:\\C++ Projects\\NewYorkTimesApiCall\\NewYorkTimesApiCall\\NewYorkTimesApiCall.csproj",
+  "projectFilePath": "C:\\C++ Projects\\HackIowa\\NewYorkTimesApiCall\\NewYorkTimesApiCall\\NewYorkTimesApiCall.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mcbea\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.7\\microsoft.aspnet.webapi.client.5.2.7.nupkg.sha512",
     "C:\\Users\\mcbea\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",

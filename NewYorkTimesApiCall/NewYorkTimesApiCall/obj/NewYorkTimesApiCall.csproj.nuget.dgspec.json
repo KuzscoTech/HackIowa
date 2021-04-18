@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\C++ Projects\\NewYorkTimesApiCall\\NewYorkTimesApiCall\\NewYorkTimesApiCall.csproj": {}
+    "C:\\C++ Projects\\HackIowa\\NewYorkTimesApiCall\\NewYorkTimesApiCall\\NewYorkTimesApiCall.csproj": {}
   },
   "projects": {
-    "C:\\C++ Projects\\NewYorkTimesApiCall\\NewYorkTimesApiCall\\NewYorkTimesApiCall.csproj": {
+    "C:\\C++ Projects\\HackIowa\\NewYorkTimesApiCall\\NewYorkTimesApiCall\\NewYorkTimesApiCall.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\C++ Projects\\NewYorkTimesApiCall\\NewYorkTimesApiCall\\NewYorkTimesApiCall.csproj",
+        "projectUniqueName": "C:\\C++ Projects\\HackIowa\\NewYorkTimesApiCall\\NewYorkTimesApiCall\\NewYorkTimesApiCall.csproj",
         "projectName": "NewYorkTimesApiCall",
-        "projectPath": "C:\\C++ Projects\\NewYorkTimesApiCall\\NewYorkTimesApiCall\\NewYorkTimesApiCall.csproj",
+        "projectPath": "C:\\C++ Projects\\HackIowa\\NewYorkTimesApiCall\\NewYorkTimesApiCall\\NewYorkTimesApiCall.csproj",
         "packagesPath": "C:\\Users\\mcbea\\.nuget\\packages\\",
-        "outputPath": "C:\\C++ Projects\\NewYorkTimesApiCall\\NewYorkTimesApiCall\\obj\\",
+        "outputPath": "C:\\C++ Projects\\HackIowa\\NewYorkTimesApiCall\\NewYorkTimesApiCall\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mcbea\\AppData\\Roaming\\NuGet\\NuGet.Config",
