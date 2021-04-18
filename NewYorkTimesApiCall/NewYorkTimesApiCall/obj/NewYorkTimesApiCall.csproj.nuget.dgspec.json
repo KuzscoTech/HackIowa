@@ -4,6 +4,16 @@
     "C:\\C++ Projects\\HackIowa\\NewYorkTimesApiCall\\NewYorkTimesApiCall\\NewYorkTimesApiCall.csproj": {}
   },
   "projects": {
+    "C:\\C++ Projects\\HackIowa\\NewYorkTimesApiCall\\Crop_Models\\Crop_Models.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\C++ Projects\\HackIowa\\NewYorkTimesApiCall\\Crop_Models\\Crop_Models.csproj",
+        "projectName": "Crop_Models",
+        "projectPath": "C:\\C++ Projects\\HackIowa\\NewYorkTimesApiCall\\Crop_Models\\Crop_Models.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
     "C:\\C++ Projects\\HackIowa\\NewYorkTimesApiCall\\NewYorkTimesApiCall\\NewYorkTimesApiCall.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -27,7 +37,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\C++ Projects\\HackIowa\\NewYorkTimesApiCall\\Crop_Models\\Crop_Models.csproj": {
+                "projectPath": "C:\\C++ Projects\\HackIowa\\NewYorkTimesApiCall\\Crop_Models\\Crop_Models.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

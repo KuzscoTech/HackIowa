@@ -1,37 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gabri\\OneDrive\\Desktop\\projects\\Hackathon\\HackIowa\\NewYorkTimesApiCall\\UI_Framework\\UI_Framework.csproj": {}
+    "C:\\C++ Projects\\HackIowa\\NewYorkTimesApiCall\\UI_Framework\\UI_Framework.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gabri\\OneDrive\\Desktop\\projects\\Hackathon\\HackIowa\\NewYorkTimesApiCall\\Crop_Models\\Crop_Models.csproj": {
+    "C:\\C++ Projects\\HackIowa\\NewYorkTimesApiCall\\Crop_Models\\Crop_Models.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\gabri\\OneDrive\\Desktop\\projects\\Hackathon\\HackIowa\\NewYorkTimesApiCall\\Crop_Models\\Crop_Models.csproj",
+        "projectUniqueName": "C:\\C++ Projects\\HackIowa\\NewYorkTimesApiCall\\Crop_Models\\Crop_Models.csproj",
         "projectName": "Crop_Models",
-        "projectPath": "C:\\Users\\gabri\\OneDrive\\Desktop\\projects\\Hackathon\\HackIowa\\NewYorkTimesApiCall\\Crop_Models\\Crop_Models.csproj"
+        "projectPath": "C:\\C++ Projects\\HackIowa\\NewYorkTimesApiCall\\Crop_Models\\Crop_Models.csproj"
       },
       "frameworks": {
         "net472": {}
       }
     },
-    "C:\\Users\\gabri\\OneDrive\\Desktop\\projects\\Hackathon\\HackIowa\\NewYorkTimesApiCall\\UI_Framework\\UI_Framework.csproj": {
+    "C:\\C++ Projects\\HackIowa\\NewYorkTimesApiCall\\UI_Framework\\UI_Framework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gabri\\OneDrive\\Desktop\\projects\\Hackathon\\HackIowa\\NewYorkTimesApiCall\\UI_Framework\\UI_Framework.csproj",
+        "projectUniqueName": "C:\\C++ Projects\\HackIowa\\NewYorkTimesApiCall\\UI_Framework\\UI_Framework.csproj",
         "projectName": "UI_Framework",
-        "projectPath": "C:\\Users\\gabri\\OneDrive\\Desktop\\projects\\Hackathon\\HackIowa\\NewYorkTimesApiCall\\UI_Framework\\UI_Framework.csproj",
-        "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gabri\\OneDrive\\Desktop\\projects\\Hackathon\\HackIowa\\NewYorkTimesApiCall\\UI_Framework\\obj\\",
+        "projectPath": "C:\\C++ Projects\\HackIowa\\NewYorkTimesApiCall\\UI_Framework\\UI_Framework.csproj",
+        "packagesPath": "C:\\Users\\mcbea\\.nuget\\packages\\",
+        "outputPath": "C:\\C++ Projects\\HackIowa\\NewYorkTimesApiCall\\UI_Framework\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\mcbea\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -44,8 +38,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\gabri\\OneDrive\\Desktop\\projects\\Hackathon\\HackIowa\\NewYorkTimesApiCall\\Crop_Models\\Crop_Models.csproj": {
-                "projectPath": "C:\\Users\\gabri\\OneDrive\\Desktop\\projects\\Hackathon\\HackIowa\\NewYorkTimesApiCall\\Crop_Models\\Crop_Models.csproj"
+              "C:\\C++ Projects\\HackIowa\\NewYorkTimesApiCall\\Crop_Models\\Crop_Models.csproj": {
+                "projectPath": "C:\\C++ Projects\\HackIowa\\NewYorkTimesApiCall\\Crop_Models\\Crop_Models.csproj"
               }
             }
           }
@@ -77,7 +71,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

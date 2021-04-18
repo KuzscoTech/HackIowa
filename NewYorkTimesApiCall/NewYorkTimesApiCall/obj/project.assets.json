@@ -1441,6 +1441,15 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XmlDocument.dll": {}
         }
+      },
+      "Crop_Models/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Crop_Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Crop_Models.dll": {}
+        }
       }
     }
   },
@@ -5272,10 +5281,16 @@
         "system.xml.xmldocument.4.3.0.nupkg.sha512",
         "system.xml.xmldocument.nuspec"
       ]
+    },
+    "Crop_Models/1.0.0": {
+      "type": "project",
+      "path": "../Crop_Models/Crop_Models.csproj",
+      "msbuildProject": "../Crop_Models/Crop_Models.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "Crop_Models >= 1.0.0",
       "Microsoft.AspNet.WebApi.Client >= 5.2.7"
     ]
   },
@@ -5305,7 +5320,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\C++ Projects\\HackIowa\\NewYorkTimesApiCall\\Crop_Models\\Crop_Models.csproj": {
+              "projectPath": "C:\\C++ Projects\\HackIowa\\NewYorkTimesApiCall\\Crop_Models\\Crop_Models.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
