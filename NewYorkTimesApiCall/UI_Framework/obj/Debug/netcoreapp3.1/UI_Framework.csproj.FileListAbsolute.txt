@@ -8,3 +8,16 @@ C:\Users\gabri\OneDrive\Desktop\projects\Hackathon\HackIowa\NewYorkTimesApiCall\
 C:\Users\gabri\OneDrive\Desktop\projects\Hackathon\HackIowa\NewYorkTimesApiCall\UI_Framework\obj\Debug\netcoreapp3.1\UI_Framework.AssemblyInfoInputs.cache
 C:\Users\gabri\OneDrive\Desktop\projects\Hackathon\HackIowa\NewYorkTimesApiCall\UI_Framework\obj\Debug\netcoreapp3.1\UI_Framework.AssemblyInfo.cs
 C:\Users\gabri\OneDrive\Desktop\projects\Hackathon\HackIowa\NewYorkTimesApiCall\UI_Framework\obj\Debug\netcoreapp3.1\UI_Framework.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Desktop\projects\Hackathon\HackIowa\NewYorkTimesApiCall\UI_Framework\bin\Debug\netcoreapp3.1\UI_Framework.exe
+C:\Users\gabri\OneDrive\Desktop\projects\Hackathon\HackIowa\NewYorkTimesApiCall\UI_Framework\bin\Debug\netcoreapp3.1\UI_Framework.deps.json
+C:\Users\gabri\OneDrive\Desktop\projects\Hackathon\HackIowa\NewYorkTimesApiCall\UI_Framework\bin\Debug\netcoreapp3.1\UI_Framework.runtimeconfig.json
+C:\Users\gabri\OneDrive\Desktop\projects\Hackathon\HackIowa\NewYorkTimesApiCall\UI_Framework\bin\Debug\netcoreapp3.1\UI_Framework.runtimeconfig.dev.json
+C:\Users\gabri\OneDrive\Desktop\projects\Hackathon\HackIowa\NewYorkTimesApiCall\UI_Framework\bin\Debug\netcoreapp3.1\UI_Framework.dll
+C:\Users\gabri\OneDrive\Desktop\projects\Hackathon\HackIowa\NewYorkTimesApiCall\UI_Framework\bin\Debug\netcoreapp3.1\UI_Framework.pdb
+C:\Users\gabri\OneDrive\Desktop\projects\Hackathon\HackIowa\NewYorkTimesApiCall\UI_Framework\bin\Debug\netcoreapp3.1\Crop_Models.exe
+C:\Users\gabri\OneDrive\Desktop\projects\Hackathon\HackIowa\NewYorkTimesApiCall\UI_Framework\bin\Debug\netcoreapp3.1\Crop_Models.pdb
+C:\Users\gabri\OneDrive\Desktop\projects\Hackathon\HackIowa\NewYorkTimesApiCall\UI_Framework\bin\Debug\netcoreapp3.1\Crop_Models.exe.config
+C:\Users\gabri\OneDrive\Desktop\projects\Hackathon\HackIowa\NewYorkTimesApiCall\UI_Framework\obj\Debug\netcoreapp3.1\UI_Framework.csproj.CopyComplete
+C:\Users\gabri\OneDrive\Desktop\projects\Hackathon\HackIowa\NewYorkTimesApiCall\UI_Framework\obj\Debug\netcoreapp3.1\UI_Framework.dll
+C:\Users\gabri\OneDrive\Desktop\projects\Hackathon\HackIowa\NewYorkTimesApiCall\UI_Framework\obj\Debug\netcoreapp3.1\UI_Framework.pdb
+C:\Users\gabri\OneDrive\Desktop\projects\Hackathon\HackIowa\NewYorkTimesApiCall\UI_Framework\obj\Debug\netcoreapp3.1\UI_Framework.genruntimeconfig.cache

@@ -47,6 +47,7 @@ namespace UI
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.Controls.Add(this.label1);
             this.Name = "userNews";
+            this.Size = new System.Drawing.Size(426, 398);
             this.ResumeLayout(false);
             this.PerformLayout();
 

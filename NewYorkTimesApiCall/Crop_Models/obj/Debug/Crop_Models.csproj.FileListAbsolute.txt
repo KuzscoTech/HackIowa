@@ -5,3 +5,9 @@ C:\C++ Projects\HackIowa\NewYorkTimesApiCall\Crop_Models\obj\Debug\Crop_Models.c
 C:\C++ Projects\HackIowa\NewYorkTimesApiCall\Crop_Models\obj\Debug\Crop_Models.csproj.CoreCompileInputs.cache
 C:\C++ Projects\HackIowa\NewYorkTimesApiCall\Crop_Models\obj\Debug\Crop_Models.exe
 C:\C++ Projects\HackIowa\NewYorkTimesApiCall\Crop_Models\obj\Debug\Crop_Models.pdb
+C:\Users\gabri\OneDrive\Desktop\projects\Hackathon\HackIowa\NewYorkTimesApiCall\Crop_Models\bin\Debug\Crop_Models.exe.config
+C:\Users\gabri\OneDrive\Desktop\projects\Hackathon\HackIowa\NewYorkTimesApiCall\Crop_Models\bin\Debug\Crop_Models.exe
+C:\Users\gabri\OneDrive\Desktop\projects\Hackathon\HackIowa\NewYorkTimesApiCall\Crop_Models\bin\Debug\Crop_Models.pdb
+C:\Users\gabri\OneDrive\Desktop\projects\Hackathon\HackIowa\NewYorkTimesApiCall\Crop_Models\obj\Debug\Crop_Models.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Desktop\projects\Hackathon\HackIowa\NewYorkTimesApiCall\Crop_Models\obj\Debug\Crop_Models.exe
+C:\Users\gabri\OneDrive\Desktop\projects\Hackathon\HackIowa\NewYorkTimesApiCall\Crop_Models\obj\Debug\Crop_Models.pdb

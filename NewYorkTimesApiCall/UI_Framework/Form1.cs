@@ -22,20 +22,49 @@ namespace UI_Framework
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            userControlCrops.Hide();
-            userControlNews.Hide();
-            userControlWeather.Hide();
+            userControlCrops C = userControlCrops1;
+            userControlNews N = userControlNews1;
+            userControlWeather W = userControlWeather1;
+
+            userControlWeather1.Hide();
+            userControlCrops1.Hide();
+            userControlNews1.Hide();
         }
 
         private void btnCrops_Click(object sender, EventArgs e)
         {
 
-
+            userControlWeather1.Hide();
+            userControlCrops1.Show();
+            userControlNews1.Hide();
         }
 
         private void btnNews_Click(object sender, EventArgs e)
         {
+            userControlWeather1.Hide();
+            userControlCrops1.Hide();
+            userControlNews1.Show();
+        }
 
+        private void btnCrops_Click_1(object sender, EventArgs e)
+        {
+            userControlWeather1.Hide();
+            userControlCrops1.Show();
+            userControlNews1.Hide();
+        }
+
+        private void btnNews_Click_1(object sender, EventArgs e)
+        {
+            userControlWeather1.Hide();
+            userControlCrops1.Hide();
+            userControlNews1.Show();
+        }
+
+        private void btnWeather_Click(object sender, EventArgs e)
+        {
+            userControlWeather1.Show();
+            userControlCrops1.Hide();
+            userControlNews1.Hide();
         }
     }
 }

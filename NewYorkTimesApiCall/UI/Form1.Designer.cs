@@ -35,9 +35,6 @@ namespace UI
             this.button2 = new System.Windows.Forms.Button();
             this.button1 = new System.Windows.Forms.Button();
             this.bindingSource1 = new System.Windows.Forms.BindingSource(this.components);
-            this.userCrops2 = new UI.userCrops();
-            this.userNews2 = new UI.userNews();
-            this.userWeather2 = new UI.userWeather();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.bindingSource1)).BeginInit();
             this.SuspendLayout();
@@ -54,9 +51,9 @@ namespace UI
             // 
             // button3
             // 
-            this.button3.Location = new System.Drawing.Point(624, 36);
+            this.button3.Location = new System.Drawing.Point(614, 15);
             this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(75, 23);
+            this.button3.Size = new System.Drawing.Size(92, 63);
             this.button3.TabIndex = 2;
             this.button3.Text = "Crops";
             this.button3.UseVisualStyleBackColor = true;
@@ -64,9 +61,9 @@ namespace UI
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(339, 36);
+            this.button2.Location = new System.Drawing.Point(328, 15);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(75, 23);
+            this.button2.Size = new System.Drawing.Size(105, 63);
             this.button2.TabIndex = 1;
             this.button2.Text = "Weather";
             this.button2.UseVisualStyleBackColor = true;
@@ -74,43 +71,19 @@ namespace UI
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(38, 36);
+            this.button1.Location = new System.Drawing.Point(38, 15);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
+            this.button1.Size = new System.Drawing.Size(85, 63);
             this.button1.TabIndex = 0;
             this.button1.Text = "news";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
-            // 
-            // userCrops2
-            // 
-            this.userCrops2.Location = new System.Drawing.Point(0, -3);
-            this.userCrops2.Name = "userCrops2";
-            this.userCrops2.Size = new System.Drawing.Size(776, 329);
-            this.userCrops2.TabIndex = 1;
-            // 
-            // userNews2
-            // 
-            this.userNews2.Location = new System.Drawing.Point(0, 12);
-            this.userNews2.Name = "userNews2";
-            this.userNews2.Size = new System.Drawing.Size(776, 329);
-            this.userNews2.TabIndex = 2;
-            // 
-            // userWeather2
-            // 
-            this.userWeather2.Location = new System.Drawing.Point(0, -3);
-            this.userWeather2.Name = "userWeather2";
-            this.userWeather2.Size = new System.Drawing.Size(788, 354);
-            this.userWeather2.TabIndex = 3;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.userWeather2);
-            this.Controls.Add(this.userNews2);
-            this.Controls.Add(this.userCrops2);
             this.Controls.Add(this.panel1);
             this.Name = "Form1";
             this.Text = "Form1";
@@ -130,9 +103,6 @@ namespace UI
         private userNews userNews1;
         private userWeather userWeather1;
         private System.Windows.Forms.BindingSource bindingSource1;
-        private userCrops userCrops2;
-        private userNews userNews2;
-        private userWeather userWeather2;
     }
 }
 
