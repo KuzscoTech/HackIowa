@@ -62,3 +62,4 @@ C:\C++ Projects\HackIowa\NewYorkTimesApiCall\UI_Framework\bin\Debug\netcoreapp3.
 C:\C++ Projects\HackIowa\NewYorkTimesApiCall\UI_Framework\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
 C:\C++ Projects\HackIowa\NewYorkTimesApiCall\UI_Framework\bin\Debug\netcoreapp3.1\System.Net.Http.Json.dll
 C:\C++ Projects\HackIowa\NewYorkTimesApiCall\UI_Framework\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\C++ Projects\HackIowa\NewYorkTimesApiCall\UI_Framework\obj\Debug\netcoreapp3.1\UI_Framework.UserControl1.resources
