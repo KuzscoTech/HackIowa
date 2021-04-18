@@ -11,10 +11,6 @@ namespace NewYorkTimesCall
         {
             ShowArticles();
             showWeatherData();
-
-
-
-
         }
         private static void ShowArticles()
         {
@@ -31,19 +27,20 @@ namespace NewYorkTimesCall
                 Console.WriteLine($"{article.Title} {article.Created_Date}");
             }
 
-            Console.ReadLine();
+           // Console.ReadLine();
         }
 
         private static void showWeatherData()
         {
             var response = WeatherInfo.GetWeather();
             var weekendWeather = response.WeekWeather;
-
+            //var temperate = weekendWeather.Temp;
             Console.WriteLine($"Result Found: {response.TimeZone}");
             foreach (var r in weekendWeather)
             {
-                //Console.WriteLine($"{r.Temp}");
+                Console.WriteLine($"SunRise: {r.Sunrise} WindDeg: {r.Wind_Deg} Weather: {r.Weather[0].Description} Temp_Day: {r.Temp.Morn}");
             }
+            Console.ReadLine();
 
         }
     }

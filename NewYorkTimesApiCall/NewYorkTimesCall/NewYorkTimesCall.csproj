@@ -56,5 +56,11 @@
     <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Crop_Models\Crop_Models.csproj">
+      <Project>{275b0284-41cf-49fa-b916-4eaa825c5d9c}</Project>
+      <Name>Crop_Models</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
